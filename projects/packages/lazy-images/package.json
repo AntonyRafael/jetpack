@@ -23,7 +23,7 @@
 	},
 	"devDependencies": {
 		"eslint": "7.18.0",
-		"webpack": "4.46.0",
+		"webpack": "5.24.2",
 		"webpack-cli": "4.5.0"
 	},
 	"engines": {
